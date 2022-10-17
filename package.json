@@ -1,0 +1,27 @@
+{
+  "name": "erc20_in_avalanche",
+  "version": "1.0.0",
+  "description": "project to test Avalanche test network (FUJI)",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigicallero/ERC20_in_Avalanche.git"
+  },
+  "author": "Luisca",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luigicallero/ERC20_in_Avalanche/issues"
+  },
+  "homepage": "https://github.com/luigicallero/ERC20_in_Avalanche#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.7.3",
+    "@truffle/hdwallet-provider": "^2.1.0",
+    "dotenv": "^16.0.3"
+  }
+}
