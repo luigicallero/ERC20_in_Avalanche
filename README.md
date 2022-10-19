@@ -33,5 +33,5 @@ git clone https://github.com/luigicallero/ERC20_in_Avalanche.git
 cd ERC20_in_Avalanche
 npm install
 ```
-
+* Remember to change the name of file .env_sample to .env and update the variables inside of the files with correct values
 
