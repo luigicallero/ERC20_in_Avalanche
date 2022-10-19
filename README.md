@@ -9,11 +9,13 @@ Good Training!!! :muscle: :thumbsup:
 ## Evidence of completion
 
 My ERC20 in Avalanche Testnet Explorer
+
 <img width="300" alt="My Token in Avalanche Testnet Explorer" src="images/avalanche_explorer.png">
 
 
 
 Tokens in my Wallet
+
 <img width="300" alt="Tokens in my wallet" src="images/avalanche_token.png">
 
 ---
